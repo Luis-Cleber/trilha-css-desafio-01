@@ -1,0 +1,25 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Variáveis de tema */
+:root {
+  --cor-primaria: #33a8db;
+  --cor-secundaria: #1f6b91;
+  --cor-fundo: #000;
+  --cor-texto: #fff;
+  --border: 1px solid #33a8db80;
+  --fonte: "Raleway", sans-serif;
+  --espacamento: 2.5rem;
+}
+
+/* Estilo global */
+body {
+  font-family: var(--fonte);
+  line-height: 1.6;
+  background-color: var(--cor-fundo);
+  color: var(--cor-texto);
+}
