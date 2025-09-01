@@ -135,3 +135,29 @@ h2 {
 .modules-list strong {
   color: var(--cor-primaria);
 }
+
+/* Transforme o mundo */
+#transform-world {
+  min-height: 560px;
+  margin: 4rem auto;
+  background: url(../assets/images/woman-code.png) center/cover no-repeat;
+  background-attachment: fixed;
+  border-top: var(--border);
+  border-bottom: var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2rem;
+}
+
+#transform-world p {
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 2.9rem;
+  text-transform: lowercase;
+  margin-left: 12.3rem;
+  max-width: 250px;
+  text-align: center;
+  text-shadow: 3px 2px var(--cor-primaria);
+  color: var(--cor-texto);
+}
