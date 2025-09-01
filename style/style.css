@@ -23,6 +23,7 @@ body {
   background-color: var(--cor-fundo);
   color: var(--cor-texto);
 }
+
 /* Títulos */
 h1,
 h2 {
