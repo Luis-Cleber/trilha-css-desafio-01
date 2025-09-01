@@ -107,3 +107,30 @@ h2 {
   color: var(--cor-texto);
   transform: scale(1.05);
 }
+/* Conteúdo do curso */
+#course-content {
+  max-width: 800px;
+  margin: 4rem auto;
+  text-align: center;
+}
+
+#course-content .modules-list {
+  margin: 1.5rem auto;
+  list-style-type: none;
+  padding: 0;
+}
+
+#course-content .modules-list .module {
+  width: 100%;
+  max-width: 530px;
+  margin: 0 auto 1.5rem;
+  border: 1px solid var(--cor-primaria);
+  background-color: #252525;
+  padding: 1rem;
+  border-radius: 3rem;
+  box-shadow: inset -5px 6px 8px rgba(0, 0, 0, 0.7);
+}
+
+.modules-list strong {
+  color: var(--cor-primaria);
+}
