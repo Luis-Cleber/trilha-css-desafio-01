@@ -5,19 +5,19 @@ O objetivo é aplicar os fundamentos de **HTML5 + CSS3**, boas práticas de **re
 
 ---
 
-## 📑 Estrutura do Projeto  
+## 📁 Estrutura de pastas
 
-📦 trilha-css-dio
- ┣ 📂 assets
- ┃ ┗ 📂 images
- ┃    ┣ logo.png
- ┃    ┣ professional-challenges.png
- ┃    ┗ dio-logo.png
- ┣ 📂 style
- ┃ ┗ style.css
- ┣ index.html
- ┣ README.md
- ┗ LICENSE.md
+- `assets/`
+  - `images/`
+    - `logo.png`
+    - `professional-challenges.png`
+    - `dio-logo.png`
+- `style/`
+  - `style.css`
+- `index.html`
+- `README.md`
+- `LICENSE.md`
+
 
 ---
 
@@ -65,10 +65,12 @@ O objetivo é aplicar os fundamentos de **HTML5 + CSS3**, boas práticas de **re
 
 📄 Licença
 
-Este projeto está sob a [licença MIT]().
+Este projeto está sob a [licença MIT](https://github.com/Luis-Cleber/trilha-css-desafio-01/blob/main/LICENSE.md).
+
 Consulte o arquivo LICENSE.md para mais detalhes.
 
 ✨ Autor
 
-Desenvolvido por Luis Cleber 👨‍💻
-🔗 LinkedIn(https://www.linkedin.com/in/luis-cleber/) | 🔗 GitHub(https://github.com/Luis-Cleber)
+Desenvolvido por Luis Cleber 👨‍💻.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/luis-cleber/) | 🔗 [GitHub](https://github.com/Luis-Cleber)
