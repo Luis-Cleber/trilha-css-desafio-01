@@ -35,7 +35,7 @@ O objetivo é aplicar os fundamentos de **HTML5 + CSS3**, boas práticas de **re
 ---
 ## 🔗 Acesse o Projeto
 
-👉 [Clique aqui para acessar](https://luis-cleber.github.io/maratona-explorer2.0/)
+👉 [Clique aqui para acessar](https://luis-cleber.github.io/trilha-css-desafio-01/)
 
 ---
 ## 📸 Prévia do Projeto  
